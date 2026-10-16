@@ -1,5 +1,6 @@
 # 네모의 꿈
 
+[![Play](https://img.shields.io/badge/Play-네모의%20꿈-00F5D4?style=for-the-badge&logo=githubpages&logoColor=white)](https://happy789515.github.io/square-dream/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![PixiJS](https://img.shields.io/badge/PixiJS-8.14.0-E72264?style=for-the-badge&logo=pixijs&logoColor=white)](https://pixijs.com/)
